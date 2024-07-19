@@ -100,7 +100,7 @@
     "karma-verbose-summary-reporter": "0.0.1",
     "load-grunt-tasks": "~5.1.0",
     "lodash": "^4.17.21",
-    "minimatch": "^9.0.3",
+    "minimatch": "^10.0.1",
     "prettier": "^3.2.5",
     "requirejs": "^2.3.6",
     "time-grunt": "^2.0.0"
